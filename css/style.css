@@ -1,0 +1,12 @@
+header{
+    background-color: aqua;
+    background-image: url(../img/pattern.png); 
+    background-size: 20%;
+    background-repeat: repeat;
+
+}
+
+div{
+    background: url(../img/logo.svg);
+
+}
